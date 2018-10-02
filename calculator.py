@@ -1,7 +1,7 @@
 # Программа калькулятор. Выполняет арифметические действия над двумя числами, полученными от 
 # пользователя. Поддерживает действия: +-*/. Выход из программы производится вводом команды [exit]. 
 
-print("exit завершить работу программы!")
+print("exit завершить cgvujhgvyucgvygvyuughuработу программы")
 while True:
 	s = input ("знак(+,-,*,/):")
 	if s in('+','-','*','/'):
@@ -21,5 +21,6 @@ while True:
 		elif s == '0':
 		    print(input("exit"))
 with contextlib.closing(Closeable()):
+	sys.exit()
 	sys.exit()
 

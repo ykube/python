@@ -5,6 +5,7 @@ print("exit завершить cgvujhgvyucgvygvyuughuработу програм
 
 print("LOL ;)")
 print(fjreodvna'oijdg)
+print (ghdkjhfg;adjv;aijfg )
 
 while True:
 	s = input ("знак(+,-,*,/):")

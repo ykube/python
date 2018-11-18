@@ -12,10 +12,18 @@
 #программа должна вывести результат суммирования: 46
 #3. <продолжение следует>
 
-file =("count_in_file.py")
-print ("1. file-( file_name)")
-print ("2. option -(option_name)")
-
+print ("python count_in_file.py, file,option")
+while True:
+    file="option"
+    if option== "option" :
+        print ("1. file_name")
+        print ("2. option_name")
+	  elif option != ("option"): 
+	    print()
+option_name =("option")
+верно
+print("file_name,option_name")
 option_1= 1+2+33+10
 option_2=("привет")
 print(option_1,option_2)
+
